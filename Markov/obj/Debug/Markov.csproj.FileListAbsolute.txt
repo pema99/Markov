@@ -1,0 +1,7 @@
+c:\users\pema malling\documents\visual studio 2015\Projects\Markov\Markov\bin\Debug\Markov.exe.config
+c:\users\pema malling\documents\visual studio 2015\Projects\Markov\Markov\bin\Debug\Markov.exe
+c:\users\pema malling\documents\visual studio 2015\Projects\Markov\Markov\bin\Debug\Markov.pdb
+c:\users\pema malling\documents\visual studio 2015\Projects\Markov\Markov\obj\Debug\Markov.csprojResolveAssemblyReference.cache
+c:\users\pema malling\documents\visual studio 2015\Projects\Markov\Markov\obj\Debug\Markov.exe
+c:\users\pema malling\documents\visual studio 2015\Projects\Markov\Markov\obj\Debug\Markov.pdb
+c:\users\pema malling\documents\visual studio 2015\Projects\Markov\Markov\bin\Debug\data.txt
